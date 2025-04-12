@@ -60,6 +60,7 @@ node bin/zap.js [command]
 ## Requirements
 - Node.js v16+ (Recommended)
 - Windows (Currently only tested on Windows)
+- Secure Boot enabled (upcoming requirement)
 
 ## License
 
